@@ -1,0 +1,16 @@
+/* 
+Ricky Lin 
+SoftDev2 pd6
+K #13: Diving Deeper Into D3
+2019-03-19  
+*/
+
+.chart rect{
+    fill: steelblue;
+}
+
+.chart text{
+    fill: white;
+    font: 10px sans-serif;
+    text-anchor: end;
+}
